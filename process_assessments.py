@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+import time
 
 pd.set_option('display.max_columns', None)
 
@@ -20,13 +20,14 @@ to_drop = [
     'language', 'rationale', 'habitat',
     'threats', 'population', 'range',
     'useTrade', 'conservationActions', 'yearLastSeen',
-    'possiblyExtinct', 'possiblyExtinctInTheWild'
+    'possiblyExtinct', 'possiblyExtinctInTheWild',
+    'realm', 'scopes'
 ]
 raw.drop(columns = to_drop, inplace = True)
 
-raw.head()
-
+print(raw.head())
 
 
 # Save new processed version for upload to HDFS
-raw.to_csv('processed/assessments.csv', index = False)
+timestr = time.strftime("%Y%m%d-%H%M%S")
+raw.to_csv('processed/assessments-' + timestr + '.csv', index = False)
