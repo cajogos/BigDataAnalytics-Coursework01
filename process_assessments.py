@@ -25,9 +25,8 @@ to_drop = [
 ]
 raw.drop(columns = to_drop, inplace = True)
 
-print(raw.head())
-
-
 # Save new processed version for upload to HDFS
 timestr = time.strftime("%Y%m%d-%H%M%S")
 raw.to_csv('processed/assessments-' + timestr + '.csv', index = False)
+
+print(raw.head())
