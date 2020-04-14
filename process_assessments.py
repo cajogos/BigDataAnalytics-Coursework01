@@ -21,9 +21,14 @@ to_drop = [
     'threats', 'population', 'range',
     'useTrade', 'conservationActions', 'yearLastSeen',
     'possiblyExtinct', 'possiblyExtinctInTheWild',
-    'realm', 'scopes'
+    'realm', 'scopes', 'systems'
 ]
 raw.drop(columns = to_drop, inplace = True)
+
+# Convert assessment date into year only
+raw['assessmentYear'] = pd.DatetimeIndex(raw['assessmentDate']).year
+
+raw.drop(columns = ['assessmentDate'], inplace = True)
 
 # Save new processed version for upload to HDFS
 timestr = time.strftime("%Y%m%d-%H%M%S")
