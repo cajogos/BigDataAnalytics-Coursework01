@@ -1,0 +1,116 @@
+{
+  "year": 2003,
+  "count": 10,
+  "assessments": [
+    {
+      "id": 10566196,
+      "taxonID": 41880,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Haliotis cracherodii",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10576661,
+      "taxonID": 41835,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Nebrius ferrugineus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10576957,
+      "taxonID": 41836,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Negaprion acutidens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10581731,
+      "taxonID": 41871,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Centrophorus squamosus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10690568,
+      "taxonID": 42392,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Erinna newcombi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 5420694,
+      "taxonID": 161425,
+      "pubYear": 2009,
+      "year": 2003,
+      "name": "Raja undulata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10746546,
+      "taxonID": 42712,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Glyphis garricki",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104116059,
+      "taxonID": 41797,
+      "pubYear": 2016,
+      "year": 2003,
+      "name": "Hemitrygon fluviorum",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10256371,
+      "taxonID": 39771,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Dipturus laevis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 9306908,
+      "taxonID": 21652,
+      "pubYear": 2003,
+      "year": 2003,
+      "name": "Testudo kleinmanni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    }
+  ]
+}

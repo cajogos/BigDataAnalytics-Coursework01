@@ -1,0 +1,7921 @@
+{
+  "year": 2017,
+  "count": 643,
+  "assessments": [
+    {
+      "id": 122055137,
+      "taxonID": 122055117,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Cobitis kaibarai",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055107,
+      "taxonID": 122055098,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Biwia yodoensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 121725532,
+      "taxonID": 41540,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aotus nancymaae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123792204,
+      "taxonID": 17978,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pontoporia blainvillei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3044743,
+      "taxonID": 5661,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Crocodylus intermedius",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 120588662,
+      "taxonID": 120588639,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pongo tapanuliensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114926155,
+      "taxonID": 59006,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhacophorus monticola",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114924999,
+      "taxonID": 58857,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Philautus jacobsoni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 120465782,
+      "taxonID": 56025,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Stefania coxi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 120465019,
+      "taxonID": 56024,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Stefania ayangannae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 126656629,
+      "taxonID": 22714047,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Zosterops rotensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 3028968,
+      "taxonID": 55327,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Gastrotheca christiani",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123792572,
+      "taxonID": 20425,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Sousa teuszii",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3016604,
+      "taxonID": 54575,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhinella arborescandens",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107460946,
+      "taxonID": 107460590,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Coryphodonta ikonnikovi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3015179,
+      "taxonID": 54444,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Barbourula kalimantanensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 126453962,
+      "taxonID": 22687828,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Coeligena orina",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 120129553,
+      "taxonID": 135874,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Anomaloglossus kaiei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 114924064,
+      "taxonID": 58654,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chalcorana macrops",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112309489,
+      "taxonID": 178554,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko badenii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 120111577,
+      "taxonID": 11286,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lanistes nasutus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 120111577,
+          "eventYear": 2007,
+          "lon": 34.92171,
+          "lat": -14.04809
+        }
+      ]
+    },
+    {
+      "id": 120110512,
+      "taxonID": 56310,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Adenomera lutzi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119524787,
+      "taxonID": 157220,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peristoma merduenianum",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119403602,
+      "taxonID": 22679814,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Oxyura leucocephala",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114639410,
+      "taxonID": 114639398,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Acheilognathus cyanostigma",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119398496,
+      "taxonID": 22694447,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Larus relictus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119397766,
+      "taxonID": 22679820,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Oxyura maccoa",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119347801,
+      "taxonID": 22697568,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Platalea minor",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 107626537,
+      "taxonID": 107626507,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Galaxias sp. nov. 'Heuningnes'",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107626669,
+      "taxonID": 107626648,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Galaxias sp. nov. 'Klein'",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107626723,
+      "taxonID": 107626712,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Galaxias sp. nov. 'Riviersonderend'",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 113957118,
+      "taxonID": 48101669,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Leptobrachella firthi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 113874204,
+      "taxonID": 113874173,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Dixonius kaweesaki",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119345695,
+      "taxonID": 22735022,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Sheppardia aurantiithorax",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119335690,
+      "taxonID": 22720966,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Emberiza aureola",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100682195,
+      "taxonID": 100682075,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Wollastonaria klausgrohi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100682372,
+      "taxonID": 100682269,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Wollastonaria jessicae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 110462698,
+      "taxonID": 14562,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Neosalanx reganius",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119243358,
+      "taxonID": 22684831,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Nestor notabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119241826,
+      "taxonID": 119241824,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hynobius unisacculus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119198872,
+      "taxonID": 22728354,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Eunymphicus uvaeensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 118473368,
+      "taxonID": 22687939,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Eriocnemis mirabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118472254,
+      "taxonID": 22724585,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Otus moheliensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118470970,
+      "taxonID": 22688694,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Otus pauliani",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118470877,
+      "taxonID": 118470875,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Chilabothrus argentum",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118456478,
+      "taxonID": 45429616,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pionus reichenowi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118449925,
+      "taxonID": 22714578,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Scepomycter winifredae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101421841,
+      "taxonID": 2296,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Atelognathus nitoi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 101422445,
+      "taxonID": 21581,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius atacamensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118448283,
+      "taxonID": 22717180,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Calendulauda burra",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101423088,
+      "taxonID": 54646,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Rhinella gallardoi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101425007,
+      "taxonID": 55336,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Gastrotheca gracilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118437516,
+      "taxonID": 22725493,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ninox spilonotus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101430333,
+      "taxonID": 57185,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Odontophrynus achalensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101433538,
+      "taxonID": 57340,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius hauthali",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101433647,
+      "taxonID": 57343,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius hypselocephalus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118433168,
+      "taxonID": 22695379,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Circus maurus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101434118,
+      "taxonID": 57355,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius pinguiculus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101434268,
+      "taxonID": 57357,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius platycephalus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101434402,
+      "taxonID": 57359,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius schreiteri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118416398,
+      "taxonID": 22678795,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ptilopachus nahani",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101434696,
+      "taxonID": 57363,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius stephani",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 113165804,
+      "taxonID": 67599909,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neisopsallus lutosus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101742864,
+      "taxonID": 6315,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Delma impar",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743329,
+      "taxonID": 7040,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Liopholis kintorei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743426,
+      "taxonID": 8187,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Eulamprus leuraensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743495,
+      "taxonID": 11804,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lerista allanae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743516,
+      "taxonID": 11805,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lerista vittata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743579,
+      "taxonID": 21902,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tiliqua adelaidensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101743649,
+      "taxonID": 62244,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aprasia rostrata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101752340,
+      "taxonID": 83778246,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Varanus mertensi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 101752345,
+      "taxonID": 83778268,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Varanus mitchelli",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 110464605,
+      "taxonID": 110464579,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Silurus lithophilus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107822221,
+      "taxonID": 107821062,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Scybalocanthon arcabuquensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107884993,
+      "taxonID": 107884970,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tsoukatosia argolica",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 107885611,
+      "taxonID": 107885596,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tsoukatosia nicoleae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 118400733,
+      "taxonID": 22716650,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Sylvia nigricapillus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118357677,
+      "taxonID": 22719374,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cryptospiza shelleyi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 102673933,
+      "taxonID": 102673884,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Diplodactylus polyophthalmus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 102703605,
+      "taxonID": 102703587,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Acanthophis cryptamydros",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 102709925,
+      "taxonID": 102709908,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hemiaspis damelii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 102831180,
+      "taxonID": 102831167,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Delma tealei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 110464790,
+      "taxonID": 21383,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tanakia tanago",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79809169,
+      "taxonID": 121428012,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Eupsophus migueli",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79802692,
+      "taxonID": 79802677,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Oxymonacanthus halli",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79809372,
+      "taxonID": 19513,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhinoderma darwinii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 78504492,
+      "taxonID": 78504623,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Rulyrana saxiscandens",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135844721,
+      "taxonID": 97185409,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Euconnus azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135845342,
+      "taxonID": 97217487,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cixius azofloresi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114921702,
+      "taxonID": 58359,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Limnonectes microtympanum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 1114496,
+      "taxonID": 166137,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Carassius cuvieri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79811588,
+      "taxonID": 56320,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Alsodes valdiviensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79811666,
+      "taxonID": 56321,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Alsodes verrucosus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 76338165,
+      "taxonID": 76338162,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobufo ignotus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79813688,
+      "taxonID": 57338,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius fronteriensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 76020339,
+      "taxonID": 42840,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Metacnemis valida",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1986,
+          "lon": 24.529167,
+          "lat": -33.65278
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 0,
+          "lon": 25.233334,
+          "lat": -33.916668
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 0,
+          "lon": 26.083334,
+          "lat": -32.683334
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1908,
+          "lon": 27.416666,
+          "lat": -32.866665
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1965,
+          "lon": 26.533333,
+          "lat": -33.3
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1973,
+          "lon": 27.43,
+          "lat": -32.57
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1983,
+          "lon": 27.91354,
+          "lat": -32.96798
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1983,
+          "lon": 27.883333,
+          "lat": -33.016666
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1996,
+          "lon": 27.43,
+          "lat": -32.57
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 1996,
+          "lon": 27.416666,
+          "lat": -32.6
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2001,
+          "lon": 27.655556,
+          "lat": -32.84083
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2001,
+          "lon": 27.651667,
+          "lat": -32.85278
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2002,
+          "lon": 26.49361,
+          "lat": -33.393612
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2002,
+          "lon": 27.655556,
+          "lat": -32.84083
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2002,
+          "lon": 27.651667,
+          "lat": -32.85278
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2006,
+          "lon": 27.451082,
+          "lat": -32.60655
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2012,
+          "lon": 27.43276,
+          "lat": -32.5697
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2012,
+          "lon": 27.452234,
+          "lat": -32.599373
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2014,
+          "lon": 27.45191,
+          "lat": -32.59899
+        },
+        {
+          "assessmentID": 76020339,
+          "eventYear": 2014,
+          "lon": 26.94727,
+          "lat": -32.4845
+        }
+      ]
+    },
+    {
+      "id": 135845658,
+      "taxonID": 97217920,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cixius azopicavus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114920507,
+      "taxonID": 58327,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Limnonectes arathooni",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79814046,
+      "taxonID": 135744,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius chusmisensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 79814184,
+      "taxonID": 18435553,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Alsodes norae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 75519665,
+      "taxonID": 13257,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Spesbona angusta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": [
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2003,
+          "lon": 19.2,
+          "lat": -33.95
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2005,
+          "lon": 19.183332,
+          "lat": -34.0
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2006,
+          "lon": 19.2,
+          "lat": -33.95
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2013,
+          "lon": 19.154705,
+          "lat": -33.94201
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2013,
+          "lon": 19.173922,
+          "lat": -33.97656
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2013,
+          "lon": 19.181356,
+          "lat": -33.988358
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2013,
+          "lon": 19.175,
+          "lat": -33.97
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 1920,
+          "lon": 19.3,
+          "lat": -33.35
+        },
+        {
+          "assessmentID": 75519665,
+          "eventYear": 2003,
+          "lon": 19.158,
+          "lat": -33.925
+        }
+      ]
+    },
+    {
+      "id": 75508274,
+      "taxonID": 4731,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chlorolestes apricans",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.883333,
+          "lat": -32.7
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.516666,
+          "lat": -32.466667
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.283333,
+          "lat": -32.316666
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 27.4167,
+          "lat": -32.5667
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.983334,
+          "lat": -32.566666
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1993,
+          "lon": 27.366667,
+          "lat": -32.316666
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.916666,
+          "lat": -32.366665
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1993,
+          "lon": 27.43,
+          "lat": -32.57
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1996,
+          "lon": 27.43,
+          "lat": -32.57
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2004,
+          "lon": 27.43,
+          "lat": -32.57
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2006,
+          "lon": 27.386255,
+          "lat": -32.63295
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2006,
+          "lon": 27.403,
+          "lat": -32.573
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2006,
+          "lon": 27.43,
+          "lat": -32.591
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2006,
+          "lon": 27.43276,
+          "lat": -32.5697
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2006,
+          "lon": 27.451082,
+          "lat": -32.60655
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2008,
+          "lon": 27.45191,
+          "lat": -32.59899
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 27.35,
+          "lat": -32.65
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2012,
+          "lon": 26.940813,
+          "lat": -32.595867
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.933332,
+          "lat": -32.633335
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2012,
+          "lon": 26.94086,
+          "lat": -32.595917
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2012,
+          "lon": 26.949,
+          "lat": -32.599
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2014,
+          "lon": 26.94475,
+          "lat": -32.50922
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 2014,
+          "lon": 26.94082,
+          "lat": -32.59604
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.966667,
+          "lat": -32.516666
+        },
+        {
+          "assessmentID": 75508274,
+          "eventYear": 1973,
+          "lon": 26.9,
+          "lat": -32.583332
+        }
+      ]
+    },
+    {
+      "id": 125518142,
+      "taxonID": 22714826,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Acrocephalus rimitarae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112213637,
+      "taxonID": 112213625,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius tornvalli",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112214784,
+      "taxonID": 112214780,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tarphius relictus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118307773,
+      "taxonID": 22695194,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Gyps bengalensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 74724562,
+      "taxonID": 74724558,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Phrynobatrachus jimzimkusi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135846353,
+      "taxonID": 97218887,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cixius azoterceirae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 739675,
+      "taxonID": 15602,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Euryoryzomys lamia",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 68641556,
+      "taxonID": 46865,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Scymnodon plunketi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67871620,
+      "taxonID": 20433018,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudocaranx chilensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67600056,
+      "taxonID": 67599982,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Oligobiella fuliginea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67600043,
+      "taxonID": 67600030,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Naresthus hebes",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67599875,
+      "taxonID": 67599870,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Kerzhneria hirsuta",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67599839,
+      "taxonID": 67599836,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Vernonia wollastoniana",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67599562,
+      "taxonID": 67599559,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Macrorhaphis wollastoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67599222,
+      "taxonID": 67599220,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Helenasaldula aberrans",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528383,
+      "taxonID": 66180884,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lasiochilus contortus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528377,
+      "taxonID": 65880307,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ilburnia ignobilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528371,
+      "taxonID": 65893702,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Helenolius dividens",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528365,
+      "taxonID": 66186238,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sanctahelenia sanctaehelenae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528359,
+      "taxonID": 66186262,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sanctahelenia insularis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528353,
+      "taxonID": 65880800,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Argaterma alticola",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528211,
+      "taxonID": 65881343,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Bonapruncinia sanctaehelenae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528203,
+      "taxonID": 66188047,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tetrablemma helenense",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528149,
+      "taxonID": 66182359,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Lycosa ringens",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528142,
+      "taxonID": 66182333,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Lycosa elysae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528136,
+      "taxonID": 65894027,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hogna nefasta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528130,
+      "taxonID": 65894021,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hogna ligata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528124,
+      "taxonID": 65894023,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hogna inexorabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118207916,
+      "taxonID": 22695323,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Spilornis elgini",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900575,
+      "taxonID": 103896223,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Agkistropleuron simplex",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900580,
+      "taxonID": 103896506,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Andriana hancocki",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900585,
+      "taxonID": 103896635,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Andriana intermedia",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900595,
+      "taxonID": 103896712,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Andriana tertia",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 80796588,
+      "taxonID": 80796583,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Typhlops tetrathyreus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 80796651,
+      "taxonID": 80796606,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Typhlops titanops",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528113,
+      "taxonID": 65894025,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hogna cinica",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528106,
+      "taxonID": 65892925,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Dolocosa dolosa",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528100,
+      "taxonID": 65881178,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Benoitodes sanctaehelenae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528094,
+      "taxonID": 65881182,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Benoitodes caheni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528082,
+      "taxonID": 66221725,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia subfasciata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528076,
+      "taxonID": 65880095,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia rufopicta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528070,
+      "taxonID": 66221730,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia rotundata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528064,
+      "taxonID": 66221658,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia janischi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 82688009,
+      "taxonID": 9019,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Chelonoidis chathamensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 67528058,
+      "taxonID": 66221707,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia grayii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528046,
+      "taxonID": 66221680,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia dalei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900610,
+      "taxonID": 103896872,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Charagotettix longispinis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528040,
+      "taxonID": 65880080,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia bewicki",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900615,
+      "taxonID": 103896913,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Charagotettix lucubensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 83319486,
+      "taxonID": 4801,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Christinus guentheri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528034,
+      "taxonID": 66221728,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia alutacea",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 103900650,
+      "taxonID": 103897388,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cryptotettix insularis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 130988927,
+      "taxonID": 130988902,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Xenotoca doadrioi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 130988927,
+          "eventYear": 2016,
+          "lon": -104.0793,
+          "lat": 20.9013
+        },
+        {
+          "assessmentID": 130988927,
+          "eventYear": 2016,
+          "lon": -104.1978,
+          "lat": 20.7378
+        },
+        {
+          "assessmentID": 130988927,
+          "eventYear": 2016,
+          "lon": -104.1172,
+          "lat": 20.8263
+        }
+      ]
+    },
+    {
+      "id": 103900655,
+      "taxonID": 103897432,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cryptotettix macrophthalmus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900665,
+      "taxonID": 103897503,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cryptotettix spinilobus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900670,
+      "taxonID": 103897825,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Eurybiades cerastes",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900685,
+      "taxonID": 103898063,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hovacris undulata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 1274356,
+      "taxonID": 169367,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Vieja hartwegi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.28056,
+          "lat": 15.74389
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.57142,
+          "lat": 17.22511
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.31283,
+          "lat": 17.13711
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.41639,
+          "lat": 17.16972
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.44156,
+          "lat": 17.17506
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.44106,
+          "lat": 17.17433
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.97472,
+          "lat": 16.49389
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.97475,
+          "lat": 16.49389
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.90947,
+          "lat": 16.56417
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.90942,
+          "lat": 16.56428
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.56022,
+          "lat": 16.69372
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.08406,
+          "lat": 16.61025
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.08417,
+          "lat": 16.61028
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.97711,
+          "lat": 16.49206
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.97722,
+          "lat": 16.49222
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.72025,
+          "lat": 15.88556
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.28081,
+          "lat": 15.74375
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -92.28081,
+          "lat": 15.74389
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2003,
+          "lon": -93.58106,
+          "lat": 17.23875
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2004,
+          "lon": -93.07925,
+          "lat": 16.15878
+        },
+        {
+          "assessmentID": 1274356,
+          "eventYear": 2004,
+          "lon": -93.26889,
+          "lat": 16.21278
+        }
+      ]
+    },
+    {
+      "id": 83494675,
+      "taxonID": 22579,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tympanocryptis pinguicolla",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 83494963,
+      "taxonID": 83494956,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tympanocryptis condaminensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67528003,
+      "taxonID": 66221631,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia aenea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527988,
+      "taxonID": 65894066,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Homoeodera pygmaea",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527976,
+      "taxonID": 65894031,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Homoeodera paivae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527970,
+      "taxonID": 65894033,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Homoeodera longefasciata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527910,
+      "taxonID": 65894104,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Homoeodera coriacea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527898,
+      "taxonID": 65880410,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Acarodes gutta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527601,
+      "taxonID": 67527598,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ripersiella mediatlantica",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 67527494,
+      "taxonID": 67527490,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Gnaphosa funerea",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65699560,
+      "taxonID": 65699557,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lopsallus flavosparsus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65699415,
+      "taxonID": 65699412,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chlorita edithae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900690,
+      "taxonID": 103898075,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hybotettix camelus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900695,
+      "taxonID": 103898107,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hybotettix humeralis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65688012,
+      "taxonID": 65688003,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Homoeodera rotundipennis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84165986,
+      "taxonID": 57439,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantella bernhardi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900710,
+      "taxonID": 103898314,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Lepocranus fuscus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900725,
+      "taxonID": 103898667,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Notocerus cornutus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900770,
+      "taxonID": 103899259,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pseudosystolederus follvikae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84167257,
+      "taxonID": 57446,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantella madagascariensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84167433,
+      "taxonID": 57447,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantella manery",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900855,
+      "taxonID": 103900307,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Thymochares delphini",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84168455,
+      "taxonID": 57454,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantidactylus albofrenatus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65686509,
+      "taxonID": 65686506,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Insulopus asteri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65686472,
+      "taxonID": 65686469,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cardiastethus bicolor",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65686349,
+      "taxonID": 65686344,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Stonasla undulata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65686338,
+      "taxonID": 65686327,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Stonasla consors",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65592829,
+      "taxonID": 65592826,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Metacanthus concolor",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65590531,
+      "taxonID": 65590517,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Napoleon vinctus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65590224,
+      "taxonID": 65590202,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Plyapomus longus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65585588,
+      "taxonID": 65585585,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Homoeodera globulosa",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84173634,
+      "taxonID": 57498,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantidactylus madecassus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65585484,
+      "taxonID": 65585480,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Valenfriesia congener",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65585466,
+      "taxonID": 65585463,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Valenfriesia dimidiata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65547171,
+      "taxonID": 65547167,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Helenocoris horridus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 103900890,
+      "taxonID": 103900518,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Thymochares pieraggii",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65547130,
+      "taxonID": 65547121,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neisopsallus vinaceus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65547089,
+      "taxonID": 65547081,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Agrametra aethiops",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65546953,
+      "taxonID": 65546948,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Nyhimbricus wollastoni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65546919,
+      "taxonID": 65546916,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Nehela vulturina",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65546881,
+      "taxonID": 65546877,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Helenolius insulicola",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65545918,
+      "taxonID": 65545914,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Zimirina relegata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65545632,
+      "taxonID": 65545628,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hirtopsallus suedae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118141491,
+      "taxonID": 22721182,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Spizella wortheni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65545336,
+      "taxonID": 65545333,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sanctahelenia decellei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 125181226,
+      "taxonID": 125181144,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis bounides",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65545218,
+      "taxonID": 65545215,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Argaterma multisignata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 65545105,
+      "taxonID": 65545076,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ilburnia dianae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135846668,
+      "taxonID": 97218908,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cixius cavazoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112214899,
+      "taxonID": 112214889,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius furtadoi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135848797,
+      "taxonID": 97225092,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Eudonia melanographa",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 135849438,
+      "taxonID": 97226172,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Scoparia carvalhoi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 119196714,
+      "taxonID": 119194858,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Poicephalus robustus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 95510159,
+      "taxonID": 89187170,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chiromantis trilaksonoi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135850621,
+      "taxonID": 97232026,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Brachmia infuscatella",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135851550,
+      "taxonID": 97237103,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Micrurapteryx bistrigella",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 135851862,
+      "taxonID": 97237575,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hadena azorica",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 95510671,
+      "taxonID": 89187048,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chiromantis nauli",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119196362,
+      "taxonID": 119194112,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Amazilia alfaroana",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 135853392,
+      "taxonID": 97238422,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phlogophora furnasi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135853998,
+      "taxonID": 97238633,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Phlogophora kruegeri",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 135855972,
+      "taxonID": 97239685,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Eudarcia atlantica",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 61417294,
+      "taxonID": 136169,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Myersiohyla liliae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 60338909,
+      "taxonID": 54999,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Nymphargus truebae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 84184973,
+      "taxonID": 136059,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Mantidactylus delormei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112214991,
+      "taxonID": 112214981,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tarphius gabrielae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58483258,
+      "taxonID": 136008,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis diesmosi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58483159,
+      "taxonID": 79694432,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Philautus everetti",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58481969,
+      "taxonID": 58739,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sanguirana tipanan",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58480910,
+      "taxonID": 58483,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis taylori",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58480584,
+      "taxonID": 58470,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis montanus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 58480214,
+      "taxonID": 58463,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis lawtoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58478487,
+      "taxonID": 57860,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Kaloula walteri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58475919,
+      "taxonID": 29588,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pelophryne albotaeniata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58475542,
+      "taxonID": 26459,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Philautus schmackeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 517865,
+      "taxonID": 136129,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius punctatus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58473859,
+      "taxonID": 17534,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis hazelae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 58473068,
+      "taxonID": 17519,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis insulatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 56793003,
+      "taxonID": 56792661,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aprasia litorea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 56344332,
+      "taxonID": 56344279,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sanguirana aurantipunctata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 56142559,
+      "taxonID": 184301,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pinheyschna waterstoni",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1887,
+          "lon": 39.75,
+          "lat": 9.633333
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1887,
+          "lon": 39.7505,
+          "lat": 9.632243
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1887,
+          "lon": 39.8,
+          "lat": 9.533333
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1907,
+          "lon": 38.37265,
+          "lat": 9.859493
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1914,
+          "lon": 37.8431,
+          "lat": 10.3915
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1914,
+          "lon": 38.549644,
+          "lat": 8.977174
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1915,
+          "lon": 37.417,
+          "lat": 11.544
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1926,
+          "lon": 34.5808,
+          "lat": 10.887976
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1932,
+          "lon": 24.31737,
+          "lat": 13.084097
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1932,
+          "lon": 24.270592,
+          "lat": 12.964772
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1964,
+          "lon": 24.32109,
+          "lat": 14.1976
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1971,
+          "lon": 38.765377,
+          "lat": 8.977391
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1971,
+          "lon": 38.75522,
+          "lat": 9.014411
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1973,
+          "lon": 39.18976,
+          "lat": 8.0239
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1990,
+          "lon": 37.56364,
+          "lat": 5.991691
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 36.84141,
+          "lat": 9.04553
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 38.61298,
+          "lat": 7.09553
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 37.43931,
+          "lat": 7.95688
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 38.817,
+          "lat": 9.717
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 36.13084,
+          "lat": 7.303604
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 36.7097,
+          "lat": 9.05058
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 1887,
+          "lon": 39.0,
+          "lat": 8.996
+        },
+        {
+          "assessmentID": 56142559,
+          "eventYear": 2004,
+          "lon": 36.7644,
+          "lat": 7.626
+        }
+      ]
+    },
+    {
+      "id": 54908593,
+      "taxonID": 41010,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hippocampus kelloggi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 54906903,
+      "taxonID": 40802,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hippocampus barbouri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119194254,
+      "taxonID": 22734314,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pomarea iphis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 54905206,
+      "taxonID": 10070,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hippocampus histrix",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119177586,
+      "taxonID": 45353580,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Apteryx mantelli",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 54903534,
+      "taxonID": 10056,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hippocampus capensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 54586673,
+      "taxonID": 54586669,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus auribalteatus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 136513666,
+      "taxonID": 55333,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Gastrotheca excubitor",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112215127,
+      "taxonID": 112215110,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius floresensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 95747724,
+      "taxonID": 56088,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Alexteroon jynx",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112215436,
+      "taxonID": 112215339,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius rufonodulosus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 95770074,
+      "taxonID": 56090,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Arlequinus krebsi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112215674,
+      "taxonID": 112215669,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tarphius serranoi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112216055,
+      "taxonID": 112215914,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius pomboi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143640471,
+      "taxonID": 16668,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Peromyscus interparietalis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143642485,
+      "taxonID": 16687,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Peromyscus pseudocrinitus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143643850,
+      "taxonID": 16690,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Peromyscus slevini",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143838795,
+      "taxonID": 98471433,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Clupeonella grimmi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143839033,
+      "taxonID": 98471539,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Clupeonella muhlisi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112660985,
+      "taxonID": 9402,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gopherus flavomarginatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112216258,
+      "taxonID": 112216190,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112216651,
+      "taxonID": 112216642,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius depressus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112216755,
+      "taxonID": 112216738,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Tarphius wollastoni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143839946,
+      "taxonID": 98836352,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sardinella tawilis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 111553007,
+      "taxonID": 18398,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Psammobates geometricus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 110101600,
+      "taxonID": 119242042,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hynobius quelpaertensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143840543,
+      "taxonID": 98894402,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Coilia mystus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143840780,
+      "taxonID": 98895427,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Coilia nasus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 110101712,
+      "taxonID": 136179,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hynobius yangi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119169794,
+      "taxonID": 22732871,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Apteryx rowi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 111881863,
+      "taxonID": 20497,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Urocitellus brunneus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 119152739,
+      "taxonID": 22726086,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Lybius leucogaster",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119113473,
+      "taxonID": 22735491,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hypocnemis ochrogyna",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109463883,
+      "taxonID": 109463880,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ctenotus ora",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119095821,
+      "taxonID": 103814223,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Certhidea olivacea",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117875047,
+      "taxonID": 22729731,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Gyps indicus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85859696,
+      "taxonID": 56495,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis carranguerorum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117856619,
+      "taxonID": 22721153,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Xenospiza baileyi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109464606,
+      "taxonID": 109464601,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenotus serotinus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109464684,
+      "taxonID": 109464681,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenotus stuarti",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 129603542,
+      "taxonID": 22693049,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pedionomus torquatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109465226,
+      "taxonID": 109465196,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyclodomorphus praealtus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109474879,
+      "taxonID": 109474872,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lerista ameles",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 143842760,
+      "taxonID": 99086401,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Thryssa rastrosa",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85862021,
+      "taxonID": 78586360,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Silverstoneia punctiventris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109475414,
+      "taxonID": 109475403,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lerista chordae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119090936,
+      "taxonID": 22688686,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Otus capnodes",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 148207323,
+      "taxonID": 97114574,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Olisthopus inclavatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 149227430,
+      "taxonID": 8966,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Gavialis gangeticus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 109477316,
+      "taxonID": 109477311,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Lerista puncticauda",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 96299350,
+      "taxonID": 58409,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Occidozyga floresiana",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85863388,
+      "taxonID": 56615,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis gladiator",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 50386795,
+      "taxonID": 198920,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Neophocaena phocaenoides",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119070155,
+      "taxonID": 22724274,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Anumara forbesi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119065682,
+      "taxonID": 22700900,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Xipholena atropurpurea",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119060447,
+      "taxonID": 22710485,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aplonis santovestris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117721799,
+      "taxonID": 39370,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Carcharhinus falciformis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119052826,
+      "taxonID": 22721040,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Calcarius ornatus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119051588,
+      "taxonID": 22713638,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Schistolais leontica",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117597507,
+      "taxonID": 22698738,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Sarcophanops steerii",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117578604,
+      "taxonID": 22684795,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cacatua haematuropygia",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109478444,
+      "taxonID": 109477953,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Liopholis guthega",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109478682,
+      "taxonID": 109478633,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Liopholis slateri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 50381766,
+      "taxonID": 41754,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Neophocaena asiaeorientalis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109480110,
+      "taxonID": 109480101,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lissolepis coventryi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109480570,
+      "taxonID": 109480565,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Nangura spinosa",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 50380891,
+      "taxonID": 41712,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Eubalaena glacialis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109480609,
+      "taxonID": 109480598,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Niveoscincus greeni",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 50370296,
+      "taxonID": 17028,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Phocoena sinus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114919983,
+      "taxonID": 57932,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Oreophryne variabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 96477527,
+      "taxonID": 56324,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Atelognathus praebasalticus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114919880,
+      "taxonID": 57925,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Oreophryne monticola",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114919677,
+      "taxonID": 57909,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Oreophryne celebensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85868283,
+      "taxonID": 56738,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis maculosus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123793740,
+      "taxonID": 136315,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Orcaella heinsohni",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85869080,
+      "taxonID": 56718,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis lichenoides",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 50362206,
+      "taxonID": 12119,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Lipotes vexillifer",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 49535044,
+      "taxonID": 81646342,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Atelopus ebenoides",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114911328,
+      "taxonID": 41226,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Alcalus mariae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117498371,
+      "taxonID": 39332,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Squatina squatina",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123796971,
+      "taxonID": 115554360,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Oryzomys gorgasi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85870805,
+      "taxonID": 56683,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis johannesdei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123797627,
+      "taxonID": 121097935,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pongo abelii",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 155431439,
+      "taxonID": 22696446,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Falco concolor",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114898978,
+      "taxonID": 62203,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pseudorasbora pumila",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114869780,
+      "taxonID": 59606,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ichthyophis weberi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114826126,
+      "taxonID": 114826113,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Cobitis shikokuensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 155471956,
+      "taxonID": 22734661,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Scytalopus rodriguezi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114826025,
+      "taxonID": 114826015,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Ischikauia steenackeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114824825,
+      "taxonID": 169610,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Acheilognathus melanogaster",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114723984,
+      "taxonID": 135858,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Platymantis paengi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 117107155,
+      "taxonID": 22713185,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hypsipetes siquijorensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119048712,
+      "taxonID": 40695,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Gymnocharacinus bergii",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85872875,
+      "taxonID": 56871,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis polychrus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 119044104,
+      "taxonID": 22691900,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Otis tarda",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 49313167,
+      "taxonID": 56110,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hyperolius ademetzi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118968809,
+      "taxonID": 22686288,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Amazona rhodocorytha",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118961453,
+      "taxonID": 22686342,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Amazona auropalliata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118954406,
+      "taxonID": 22686374,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Amazona vinacea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118919769,
+      "taxonID": 22721749,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Setophaga angelae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118917907,
+      "taxonID": 22717153,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Heteromirafra ruddi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118905827,
+      "taxonID": 22717663,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Anthreptes rubritorques",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85875252,
+      "taxonID": 56904,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis renjiforum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85875341,
+      "taxonID": 56903,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis reclusas",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118905070,
+      "taxonID": 22727593,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cyclopsitta coxeni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 118904437,
+      "taxonID": 22735464,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cnipodectes superrufus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 117063025,
+      "taxonID": 22715770,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Liocichla omeiensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 97220104,
+      "taxonID": 6607,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Dinaromys bogdanovi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118900498,
+      "taxonID": 22701439,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Myrmotherula klagesi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118899364,
+      "taxonID": 22698777,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Neodrepanis hypoxantha",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118892787,
+      "taxonID": 22722592,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Bangsia aureocincta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118889995,
+      "taxonID": 22724290,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Macroagelaius subalaris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118846766,
+      "taxonID": 22722136,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Conothraupis mesoleuca",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118845180,
+      "taxonID": 22729533,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Lanius meridionalis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118816985,
+      "taxonID": 22701577,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Herpsilochmus pectoralis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118807418,
+      "taxonID": 22699516,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Phylloscartes ceciliae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118806820,
+      "taxonID": 45421208,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pyrrhura leucotis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118775733,
+      "taxonID": 22698957,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hemitriccus kaempferi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 155473409,
+      "taxonID": 22723537,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Sporophila maximiliani",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85880022,
+      "taxonID": 57015,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis tribulosus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85880124,
+      "taxonID": 57011,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis torrenticola",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118773701,
+      "taxonID": 22736232,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Automolus lammi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118772050,
+      "taxonID": 22685025,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Psittrichas fulgidus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118770436,
+      "taxonID": 22708464,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Geokichla guttata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85881885,
+      "taxonID": 57032,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis veletis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118683219,
+      "taxonID": 22710565,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aplonis brunneicapillus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118663538,
+      "taxonID": 22691668,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ducula aurorae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 118641514,
+      "taxonID": 103758982,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Sittiparus owstoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118629788,
+      "taxonID": 22730062,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ninox sumbaensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85883375,
+      "taxonID": 56929,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis ruedai",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118627862,
+      "taxonID": 22728045,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Ramphiculus meridionalis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85883578,
+      "taxonID": 56987,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis susaguae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116998688,
+      "taxonID": 22705675,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cyanolyca mirabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109809664,
+      "taxonID": 109809613,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Microthymochares pullus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109809880,
+      "taxonID": 103899231,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Procytettix hova",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118582685,
+      "taxonID": 22681379,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Dryocopus hodgei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85885086,
+      "taxonID": 56962,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis signifer",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118561208,
+      "taxonID": 22705852,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Dendrocitta bayleii",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118535609,
+      "taxonID": 22691061,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Alopecoenas rubescens",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 109876922,
+      "taxonID": 39371,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Carcharhinus leiodon",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109897319,
+      "taxonID": 60131,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Torpedo adenensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85889122,
+      "taxonID": 55164,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hyloxalus vergeli",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 166604269,
+      "taxonID": 40648,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Piliocolobus parmentieri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 47155335,
+      "taxonID": 47155317,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Bellatorias obiri",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109905030,
+      "taxonID": 161476,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Acroteriobatus variegatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109905403,
+      "taxonID": 161488,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Halaelurus boesemani",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 47151469,
+      "taxonID": 47151415,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Leptobrachium tagbanorum",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118502506,
+      "taxonID": 22721839,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Geothlypis beldingi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 129322054,
+      "taxonID": 102731769,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus sadleiri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118493030,
+      "taxonID": 22716655,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Kupeornis gilberti",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 98407133,
+      "taxonID": 55692,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tepuihyla warreni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 46664154,
+      "taxonID": 20437726,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Trachurus indicus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109922492,
+      "taxonID": 104023514,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aetomylaeus milvus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 46256112,
+      "taxonID": 46256092,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Leptobrachium mangyanorum",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104413684,
+      "taxonID": 80200052,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Davidrentzia valida",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104652601,
+      "taxonID": 104652314,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudocalotes poilani",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 109922508,
+      "taxonID": 107604987,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Maculabatis arabica",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104677832,
+      "taxonID": 104677699,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Physignathus cocincinus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 45536687,
+      "taxonID": 45536685,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius mendelsoni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718326,
+      "taxonID": 104682593,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cnemaspis caudanivea",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718371,
+      "taxonID": 104683759,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cnemaspis niyomwanae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718376,
+      "taxonID": 104683916,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cnemaspis nuicamensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718401,
+      "taxonID": 104684134,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cnemaspis tucdupensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718436,
+      "taxonID": 104686599,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus caovansungi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718446,
+      "taxonID": 104686673,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus chanhomeae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718526,
+      "taxonID": 104690632,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus grismeri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718551,
+      "taxonID": 104691914,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus huongsonensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718556,
+      "taxonID": 104691922,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus huynhi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718601,
+      "taxonID": 104692853,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus khelangensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 129164647,
+      "taxonID": 97218110,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cixius azopifajo",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 45477430,
+      "taxonID": 45477280,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Alsodes neuquensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718706,
+      "taxonID": 104698021,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus phuketensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718716,
+      "taxonID": 104698481,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cyrtodactylus phuquocensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718886,
+      "taxonID": 104716910,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Dixonius taoi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 166607033,
+      "taxonID": 12309,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Lophocebus albigena",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85903748,
+      "taxonID": 55656,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Hyloscirtus simmonsi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718891,
+      "taxonID": 104716938,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko aaronbaueri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718921,
+      "taxonID": 104717581,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko lauhachindai",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 85904830,
+      "taxonID": 136027,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Bolitoglossa tatamae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 43340054,
+      "taxonID": 43340051,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Occidozyga tompotika",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718946,
+      "taxonID": 104717986,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko russelltraini",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 104718966,
+      "taxonID": 104718065,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko takouensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99166519,
+      "taxonID": 96986682,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Heteroderes azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 42863493,
+      "taxonID": 42863484,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Limnonectes ferneri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 42492772,
+      "taxonID": 42492770,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Acanthophis hawkei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104718986,
+      "taxonID": 104718151,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gekko vietnamensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 22450903,
+      "taxonID": 45054,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hylomyscus grandis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116969455,
+      "taxonID": 22726585,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Todiramphus reichenbachii",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116891452,
+      "taxonID": 22705629,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aphelocoma coerulescens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116841596,
+      "taxonID": 39329,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Squatina argentina",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116782036,
+      "taxonID": 61418,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Squatina oculata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22415091,
+      "taxonID": 5500,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Crateromys schadenbergi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22391789,
+      "taxonID": 1564,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Anotomys leander",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22390714,
+      "taxonID": 40765,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Nesoryzomys narboroughi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22386368,
+      "taxonID": 19409,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Reithrodontomys hirsutus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22386261,
+      "taxonID": 19416,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Reithrodontomys spectabilis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22385808,
+      "taxonID": 19418,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Reithrodontomys tenuirostris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22385642,
+      "taxonID": 136821,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Reithrodontomys bakeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22385344,
+      "taxonID": 19401,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Reithrodontomys raviventris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22372306,
+      "taxonID": 14592,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neotoma nelsoni",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22370476,
+      "taxonID": 14593,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neotoma palatina",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22364100,
+      "taxonID": 16688,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus sejugis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22363320,
+      "taxonID": 16679,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Peromyscus melanurus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 22363138,
+      "taxonID": 16673,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Peromyscus mayensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166564,
+      "taxonID": 97120426,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Trechus isabelae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 22362848,
+      "taxonID": 16697,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus zarhynchus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22362540,
+      "taxonID": 16695,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus winkelmanni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22362390,
+      "taxonID": 16689,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus simulus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22362173,
+      "taxonID": 16692,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus stephani",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22361697,
+      "taxonID": 16655,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus caniceps",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22361454,
+      "taxonID": 16653,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus bullatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 86475525,
+      "taxonID": 18743,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pteropus niger",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22361002,
+      "taxonID": 16671,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus madrensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22359973,
+      "taxonID": 16664,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Peromyscus guardia",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22359234,
+      "taxonID": 23115,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Xenomys nelsoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22356343,
+      "taxonID": 2803,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Bibimys torresi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114639912,
+      "taxonID": 114639882,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Acheilognathus typus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 129084352,
+      "taxonID": 22691030,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Alopecoenas erythropterus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22355693,
+      "taxonID": 115591937,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sigmodon alleni",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22353517,
+      "taxonID": 12940,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Megadontomys cryophilus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22353461,
+      "taxonID": 12942,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Megadontomys thomasi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 22353381,
+      "taxonID": 12941,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Megadontomys nelsoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22346873,
+      "taxonID": 13449,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Microtus oaxacensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22346455,
+      "taxonID": 42635,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Microtus umbrosus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22345036,
+      "taxonID": 40768,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Geoxus annectens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 106127040,
+      "taxonID": 89255161,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus daemon",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 106127661,
+      "taxonID": 78585312,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhinella yunga",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116768915,
+      "taxonID": 61417,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Squatina aculeata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 111940150,
+      "taxonID": 13393,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Micropotamogale lamottei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116323229,
+      "taxonID": 21775,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Thomasomys eleusis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 2884984,
+      "taxonID": 3898,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Carettochelys insculpta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 112217706,
+      "taxonID": 112217627,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Tarphius acuminatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 116034178,
+      "taxonID": 213,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Acheilognathus longipinnis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22344408,
+      "taxonID": 13048,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Melanomys zunigae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22340781,
+      "taxonID": 22575,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tylomys tumbalensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22340265,
+      "taxonID": 22570,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tylomys bullaris",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22338391,
+      "taxonID": 14486,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Nelsonia goldmani",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 87734864,
+      "taxonID": 87734849,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Oreobates berdemenos",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22337139,
+      "taxonID": 14741,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neusticomys mussoi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22336822,
+      "taxonID": 14744,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Neusticomys venezuelae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22328169,
+      "taxonID": 15611,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Handleyomys rhabdops",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22327572,
+      "taxonID": 29404,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hylaeamys laticeps",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115685642,
+      "taxonID": 11004,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Kinixys natalensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107431160,
+      "taxonID": 44710484,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Bradyporus sureyai",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107431190,
+      "taxonID": 107430621,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Caryanda pieli",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107431200,
+      "taxonID": 107430652,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Chibchacris sturmi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22326149,
+      "taxonID": 17829,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Podogymnura aureospinula",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22301535,
+      "taxonID": 5636,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Crocidura picea",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107431225,
+      "taxonID": 107430801,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Duroniella acuta",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22298060,
+      "taxonID": 5609,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Crocidura negrina",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22259184,
+      "taxonID": 12828,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Marmota vancouverensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89196113,
+      "taxonID": 54506,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Atelopus erythropus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22231557,
+      "taxonID": 10753,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hystrix pumila",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22196245,
+      "taxonID": 136567,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenomys lami",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22195057,
+      "taxonID": 136390,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenomys osvaldoreigi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22194328,
+      "taxonID": 5817,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenomys occultus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22194037,
+      "taxonID": 136370,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Ctenomys pundti",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22193418,
+      "taxonID": 136635,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenomys rionegrensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89200227,
+      "taxonID": 55154,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hyloxalus sylvaticus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89200449,
+      "taxonID": 55169,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hyloxalus azureiventris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89200615,
+      "taxonID": 55178,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Excidobates captivus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89201026,
+      "taxonID": 55193,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Excidobates mysteriosus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89201681,
+      "taxonID": 55214,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega bassleri",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89201830,
+      "taxonID": 55219,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega cainarachi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89202206,
+      "taxonID": 55232,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega pongoensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89202378,
+      "taxonID": 55234,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega rubriventris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89202518,
+      "taxonID": 55236,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega silverstonei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166664,
+      "taxonID": 97162328,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudechinosoma nodosum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89203733,
+      "taxonID": 55360,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gastrotheca stictopleura",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22187606,
+      "taxonID": 14256,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Mysateles melanurus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22186569,
+      "taxonID": 9001,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Geocapromys brownii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89205895,
+      "taxonID": 56503,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis ceuthospilus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89206416,
+      "taxonID": 56526,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis cosnipatae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89207822,
+      "taxonID": 56763,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pristimantis metabates",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89208732,
+      "taxonID": 56850,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis petrobardus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89208817,
+      "taxonID": 56861,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis pinguis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89209217,
+      "taxonID": 56911,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis rhodoplichus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89209444,
+      "taxonID": 56932,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis rufioculis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89210307,
+      "taxonID": 57200,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Psychrophrynella bagrecito",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89210796,
+      "taxonID": 57207,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus dagmarae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89211204,
+      "taxonID": 57210,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus heimorum",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89211332,
+      "taxonID": 57211,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus horstpauli",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89211539,
+      "taxonID": 57213,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus juninensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89211672,
+      "taxonID": 57214,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus kauneorum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22085351,
+      "taxonID": 18752,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pteropus pselaphon",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 89211934,
+      "taxonID": 57218,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phrynopus montium",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89212044,
+      "taxonID": 57220,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lynchius nebulanastes",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89212150,
+      "taxonID": 57221,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Lynchius parkeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 22051652,
+      "taxonID": 14132,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Myotis grisescens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 89212949,
+      "taxonID": 57234,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Noblella lynchi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89213199,
+      "taxonID": 57325,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius atahualpai",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89213506,
+      "taxonID": 57358,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius rimac",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89216338,
+      "taxonID": 135751,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis ornatus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 21567322,
+      "taxonID": 21567318,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhinatrema shiv",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89218505,
+      "taxonID": 135900,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis albertus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89218633,
+      "taxonID": 135985,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhinella yanachaga",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99166669,
+      "taxonID": 97163447,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Agabus godmanni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89219317,
+      "taxonID": 136031,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pristimantis wagteri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89219963,
+      "taxonID": 136061,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis cordovae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89220882,
+      "taxonID": 136132,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Pristimantis pardalinus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89221263,
+      "taxonID": 136162,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Atelopus epikeisthos",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 18917741,
+      "taxonID": 18917735,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Goniurosaurus lichtenfelderi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89222132,
+      "taxonID": 158545,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Atelopus oxapampae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89224207,
+      "taxonID": 193430,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ranitomeya summersi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89224409,
+      "taxonID": 193431,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ranitomeya benedicta",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 17968300,
+      "taxonID": 118355453,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hoolock leuconedys",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226052,
+      "taxonID": 77187813,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega pepperi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226062,
+      "taxonID": 77187888,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ameerega yoshina",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226092,
+      "taxonID": 78500940,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Gastrotheca nebulanastes",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226107,
+      "taxonID": 78517604,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Boana gladiator",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226147,
+      "taxonID": 78535863,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Phrynopus vestigiatus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 17968083,
+      "taxonID": 39876,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Hoolock hoolock",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 16957270,
+      "taxonID": 59649,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Crotaphatrema lamottei",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166674,
+      "taxonID": 97167384,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hydroporus guernei",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 89226277,
+      "taxonID": 89183310,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Noblella madreselva",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166679,
+      "taxonID": 97167398,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Athous azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166689,
+      "taxonID": 97169951,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cryptolestes azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166694,
+      "taxonID": 97170117,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Metophthalmus occidentalis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166699,
+      "taxonID": 97170461,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Catops velhocabrali",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166709,
+      "taxonID": 97180194,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Atheta caprariensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166734,
+      "taxonID": 97213213,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Medon varamontis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166739,
+      "taxonID": 97213226,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Phloeostiba azorica",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166744,
+      "taxonID": 97213241,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Phytosus schatzmayri",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166749,
+      "taxonID": 97213262,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Nesotes azoricus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166754,
+      "taxonID": 97215835,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Aphrodes hamiltoni",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166874,
+      "taxonID": 97236499,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Eupithecia ogilviata",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166984,
+      "taxonID": 97295365,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Athous pomboi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166994,
+      "taxonID": 97296302,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Graphania granti",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99166999,
+      "taxonID": 97481131,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Atlantocis gillerforsi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 16929588,
+      "taxonID": 58168,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Xenopus amieti",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3146005,
+      "taxonID": 867,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Alligator sinensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 3124798,
+      "taxonID": 63338,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Oreochromis mossambicus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3111662,
+      "taxonID": 6229,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Dalatias licha",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115675634,
+      "taxonID": 110160538,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hemicordylus nebulosus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99167029,
+      "taxonID": 97493135,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Trigoniophthalmus borgesi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99167034,
+      "taxonID": 97633244,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Atheta floresensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99167044,
+      "taxonID": 97634472,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Aleochara freyi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99447325,
+      "taxonID": 19889,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Sandelia bainsii",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115666580,
+      "taxonID": 22473777,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Bitis armata",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115666359,
+      "taxonID": 22473767,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Bitis albanica",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118481703,
+      "taxonID": 22707747,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Malaconotus alius",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99931123,
+      "taxonID": 99931118,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Leiolepis boehmei",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99931300,
+      "taxonID": 99931296,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Leiolepis guentherpetersi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99941765,
+      "taxonID": 99941632,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudocalotes flavigula",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 1326328,
+      "taxonID": 171450,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Zonites algirus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 128961575,
+      "taxonID": 97217787,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Cixius azomariae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99941788,
+      "taxonID": 99941772,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudocalotes larutensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 3067255,
+      "taxonID": 58176,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Xenopus longipes",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 90238127,
+      "taxonID": 63219,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Proischnura polychromatica",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 90238127,
+          "eventYear": 1936,
+          "lon": 21.42,
+          "lat": -33.45
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 1936,
+          "lon": 21.383333,
+          "lat": -33.416668
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2003,
+          "lon": 19.2,
+          "lat": -33.95
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2003,
+          "lon": 19.158,
+          "lat": -33.925
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2005,
+          "lon": 19.183332,
+          "lat": -34.0
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2013,
+          "lon": 19.177752,
+          "lat": -33.983658
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 1935,
+          "lon": 21.383333,
+          "lat": -33.416668
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2013,
+          "lon": 19.181356,
+          "lat": -33.988358
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2013,
+          "lon": 19.154705,
+          "lat": -33.94201
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2013,
+          "lon": 19.175,
+          "lat": -33.97
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 0,
+          "lon": 19.2,
+          "lat": -33.95
+        },
+        {
+          "assessmentID": 90238127,
+          "eventYear": 2014,
+          "lon": 19.175,
+          "lat": -33.97
+        }
+      ]
+    },
+    {
+      "id": 3060175,
+      "taxonID": 57365,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius truebae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3059857,
+      "taxonID": 57356,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius pisanoi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 99941851,
+      "taxonID": 99941846,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudocalotes viserion",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99942537,
+      "taxonID": 99942532,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Dibamus tiomanensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 99943618,
+      "taxonID": 99943609,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Cnemaspis temiah",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115659621,
+      "taxonID": 178207,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Scelotes inornatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115658240,
+      "taxonID": 176290,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Bradypodion caffer",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3059558,
+      "taxonID": 57350,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius mayoloi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100141523,
+      "taxonID": 63262,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Enteromius gurneyi",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3059201,
+      "taxonID": 57348,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Telmatobius latirostris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115656360,
+      "taxonID": 170521,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chersobius boulengeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 118476161,
+      "taxonID": 22702334,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Synallaxis tithys",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3059021,
+      "taxonID": 57347,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius laticeps",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123198028,
+      "taxonID": 123197987,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Drepanosticta drusilla",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 123198028,
+          "eventYear": 1932,
+          "lon": 109.056145,
+          "lat": 0.841492
+        },
+        {
+          "assessmentID": 123198028,
+          "eventYear": 1933,
+          "lon": 109.1381,
+          "lat": 0.75725
+        },
+        {
+          "assessmentID": 123198028,
+          "eventYear": 2006,
+          "lon": 109.683,
+          "lat": 1.8
+        },
+        {
+          "assessmentID": 123198028,
+          "eventYear": 2010,
+          "lon": 110.16077,
+          "lat": 1.60888
+        }
+      ]
+    },
+    {
+      "id": 123029843,
+      "taxonID": 122885292,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Prodasineura yulan",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 123029843,
+          "eventYear": 2012,
+          "lon": 111.05844,
+          "lat": 1.61882
+        }
+      ]
+    },
+    {
+      "id": 123029778,
+      "taxonID": 122883783,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Coeliccia matok",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 123029778,
+          "eventYear": 2012,
+          "lon": 110.279,
+          "lat": 1.574
+        },
+        {
+          "assessmentID": 123029778,
+          "eventYear": 2010,
+          "lon": 110.453,
+          "lat": 1.461
+        },
+        {
+          "assessmentID": 123029778,
+          "eventYear": 2015,
+          "lon": 109.64199,
+          "lat": 1.965
+        },
+        {
+          "assessmentID": 123029778,
+          "eventYear": 2015,
+          "lon": 109.60243,
+          "lat": 1.9348
+        }
+      ]
+    },
+    {
+      "id": 123027580,
+      "taxonID": 163657,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Coeliccia macrostigma",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 123027580,
+          "eventYear": 2014,
+          "lon": 114.71731,
+          "lat": 4.15359
+        },
+        {
+          "assessmentID": 123027580,
+          "eventYear": 2006,
+          "lon": 114.877,
+          "lat": 4.239
+        },
+        {
+          "assessmentID": 123027580,
+          "eventYear": 2011,
+          "lon": 114.36519,
+          "lat": 4.17963
+        },
+        {
+          "assessmentID": 123027580,
+          "eventYear": 2013,
+          "lon": 114.46178,
+          "lat": 4.50487
+        },
+        {
+          "assessmentID": 123027580,
+          "eventYear": 2013,
+          "lon": 114.29584,
+          "lat": 4.511435
+        }
+      ]
+    },
+    {
+      "id": 3058583,
+      "taxonID": 57344,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Telmatobius ignavus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3057966,
+      "taxonID": 57330,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Telmatobius ceiorum",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3057820,
+      "taxonID": 57329,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius carrillae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3057646,
+      "taxonID": 57328,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Telmatobius brevirostris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122351869,
+      "taxonID": 6727,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Hystricella echinulata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3057511,
+      "taxonID": 57327,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Telmatobius brevipes",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115654759,
+      "taxonID": 163454,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Kinixys lobatsiana",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100170134,
+      "taxonID": 18477,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudobarbus asper",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 123790805,
+      "taxonID": 15419,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Orcaella brevirostris",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115652946,
+      "taxonID": 19953,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Scelotes bourquini",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 107437166,
+      "taxonID": 107435663,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Endolandrevus pubescens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100171498,
+      "taxonID": 18475,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Pseudobarbus quathlambae",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100178519,
+      "taxonID": 20223,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Silhouettea sibayi",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 127837214,
+      "taxonID": 22689055,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Bubo scandiacus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115650943,
+      "taxonID": 10241,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chersobius signatus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 115650269,
+      "taxonID": 5336,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Smaug giganteus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 100194297,
+      "taxonID": 63366,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Chiloglanis emarginatus",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3056637,
+      "taxonID": 57204,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Ctenophryne carpish",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122150412,
+      "taxonID": 122150350,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Amphicnemis madelenae",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 122150412,
+          "eventYear": 1909,
+          "lon": 110.36134,
+          "lat": 1.52904
+        },
+        {
+          "assessmentID": 122150412,
+          "eventYear": 1931,
+          "lon": 109.17581,
+          "lat": 0.96112
+        },
+        {
+          "assessmentID": 122150412,
+          "eventYear": 1950,
+          "lon": 110.29184,
+          "lat": 1.5741
+        },
+        {
+          "assessmentID": 122150412,
+          "eventYear": 2010,
+          "lon": 110.27875,
+          "lat": 1.5736
+        }
+      ]
+    },
+    {
+      "id": 122150110,
+      "taxonID": 122149956,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Podolestes chrysopus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": [
+        {
+          "assessmentID": 122150110,
+          "eventYear": 2012,
+          "lon": 109.72607,
+          "lat": 1.726683
+        },
+        {
+          "assessmentID": 122150110,
+          "eventYear": 1925,
+          "lon": 112.85,
+          "lat": 0.81667
+        },
+        {
+          "assessmentID": 122150110,
+          "eventYear": 1931,
+          "lon": 109.17581,
+          "lat": 0.96112
+        },
+        {
+          "assessmentID": 122150110,
+          "eventYear": 1932,
+          "lon": 109.03373,
+          "lat": 0.6491
+        },
+        {
+          "assessmentID": 122150110,
+          "eventYear": 2006,
+          "lon": 110.27875,
+          "lat": 1.5736
+        },
+        {
+          "assessmentID": 122150110,
+          "eventYear": 2012,
+          "lon": 111.05844,
+          "lat": 1.61882
+        }
+      ]
+    },
+    {
+      "id": 3055585,
+      "taxonID": 57125,
+      "pubYear": 2017,
+      "year": 2017,
+      "name": "Leptodactylus fallax",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122061051,
+      "taxonID": 168361,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Sympetrum maculatum",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122059823,
+      "taxonID": 19511,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Rhinocypha ogasawarensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114926485,
+      "taxonID": 88127659,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhacophorus indonesiensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122058507,
+      "taxonID": 2875,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Ischnura ezoin",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 126893184,
+      "taxonID": 62290750,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Charadrius obscurus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114926470,
+      "taxonID": 79128785,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Rhacophorus bengkuluensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122058452,
+      "taxonID": 10820,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Indolestes boninensis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 114926455,
+      "taxonID": 79098509,
+      "pubYear": 2018,
+      "year": 2017,
+      "name": "Microhyla orientalis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122058246,
+      "taxonID": 9871,
+      "pubYear": 2020,
+      "year": 2017,
+      "name": "Hemicordulia ogasawarensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055879,
+      "taxonID": 122055851,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Tribolodon nakamurai",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055694,
+      "taxonID": 122055686,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Sillago parvisquamis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055572,
+      "taxonID": 122055564,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Pseudorasbora pugnax",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055238,
+      "taxonID": 122055219,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Cobitis takenoi",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055186,
+      "taxonID": 122055172,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Cobitis sakahoko",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 122055153,
+      "taxonID": 122055145,
+      "pubYear": 2019,
+      "year": 2017,
+      "name": "Cobitis magnostriata",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    }
+  ]
+}

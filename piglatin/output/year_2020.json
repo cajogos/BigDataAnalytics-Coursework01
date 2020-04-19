@@ -1,0 +1,61 @@
+{
+  "year": 2020,
+  "count": 5,
+  "assessments": [
+    {
+      "id": 152728945,
+      "taxonID": 6557,
+      "pubYear": 2020,
+      "year": 2020,
+      "name": "Diceros bicornis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Increasing",
+      "points": null
+    },
+    {
+      "id": 92657454,
+      "taxonID": 92657343,
+      "pubYear": 2020,
+      "year": 2020,
+      "name": "Piliocolobus semlikiensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 161259430,
+      "taxonID": 161247840,
+      "pubYear": 2020,
+      "year": 2020,
+      "name": "Piliocolobus badius",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 92659769,
+      "taxonID": 18252,
+      "pubYear": 2020,
+      "year": 2020,
+      "name": "Piliocolobus foai",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 96192471,
+      "taxonID": 18262,
+      "pubYear": 2020,
+      "year": 2020,
+      "name": "Piliocolobus lulindicus",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    }
+  ]
+}

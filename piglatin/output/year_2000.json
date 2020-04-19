@@ -1,0 +1,193 @@
+{
+  "year": 2000,
+  "count": 17,
+  "assessments": [
+    {
+      "id": 10310914,
+      "taxonID": 40045,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Amnicola cora",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 9503999,
+      "taxonID": 29605,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Cyclura stejnegeri",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10240917,
+      "taxonID": 39482,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Zerynthia caucasica",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 9404092,
+      "taxonID": 22976,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Venustaconcha trabalis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 3320568,
+      "taxonID": 12006,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Liolaemus lutzae",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 12937542,
+      "taxonID": 8902,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Gammarus desperatus",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Stable",
+      "points": null
+    },
+    {
+      "id": 97401140,
+      "taxonID": 39620,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Pelodiscus sinensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 12838489,
+      "taxonID": 7640,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Elliptio chipolaensis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10281698,
+      "taxonID": 39905,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Calamodontophis paucidens",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 7333727,
+      "taxonID": 17693,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Pleurobema strodeanum",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10231565,
+      "taxonID": 39490,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Polyommatus dama",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10228760,
+      "taxonID": 39486,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Lycaena ottomana",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10280801,
+      "taxonID": 39902,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Bothrops pirajai",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 9106272,
+      "taxonID": 19881,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Samoana fragilis",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 8792821,
+      "taxonID": 19041,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Theliderma intermedia",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 10282088,
+      "taxonID": 39908,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Liolaemus occipitalis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 12860641,
+      "taxonID": 7878,
+      "pubYear": 2000,
+      "year": 2000,
+      "name": "Epioblasma penita",
+      "kingdom": "ANIMALIA",
+      "category": "Critically Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "year": 2005,
+  "count": 2,
+  "assessments": [
+    {
+      "id": 10221801,
+      "taxonID": 39379,
+      "pubYear": 2009,
+      "year": 2005,
+      "name": "Glyphis glyphis",
+      "kingdom": "ANIMALIA",
+      "category": "Endangered",
+      "popTrend": "Decreasing",
+      "points": null
+    },
+    {
+      "id": 104171073,
+      "taxonID": 39406,
+      "pubYear": 2016,
+      "year": 2005,
+      "name": "Fontitrygon garouaensis",
+      "kingdom": "ANIMALIA",
+      "category": "Vulnerable",
+      "popTrend": "Decreasing",
+      "points": null
+    }
+  ]
+}
