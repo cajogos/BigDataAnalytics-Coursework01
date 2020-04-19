@@ -27,3 +27,7 @@ Then visit the http://localhost:5000/
 ## Edit the look
 
 The pages are located under `./templates` you can check which templates are called by looking into `./app.py`.
+
+## Edit the CSS and JavaScript
+
+Place your CSS and JS files in `./static` and the Flask server will load them for you automatically.
