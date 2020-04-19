@@ -2,6 +2,29 @@
 
 {% block content %}
 
-<h1>I am the content.</h1>
+<h1>Timeline of Endangered Species <small class="text-muted">Group X</small></h1>
+
+<hr>
+
+<div data-app="app" style="display:none">
+
+    <div class="row" style="min-height: 500px">
+
+        <div data-app="map-display" class="col-9"></div>
+
+        <div data-app="sidebar" class="col-3"></div>
+
+    </div>
+
+    <div data-app="year-picker" class="year-picker text-center mt-3 row">
+        <div data-app="min-value" class="col-1"></div>
+        <div class="col-10">
+            <input data-app="year-range" type="range" class="custom-range">
+            <div data-app="cur-value" class="font-weight-bold"></div>
+        </div>
+        <div data-app="max-value" class="col-1"></div>
+    </div>
+
+</div>
 
 {% endblock %}

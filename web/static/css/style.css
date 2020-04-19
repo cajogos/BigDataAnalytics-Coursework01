@@ -1,1 +1,7 @@
-body {}
+body {
+    background: #000;
+}
+
+.page-container {
+    background: white;
+}
