@@ -4,15 +4,31 @@
 
 <h1>Timeline of Endangered Species <small class="text-muted">Group X</small></h1>
 
-<hr>
+<div data-app="app" class="mt-2" style="display:none">
 
-<div data-app="app" style="display:none">
+    <div class="row mb-2">
+        <div class="col-8">
+            <span>
+                <strong>Year:</strong> <span data-app="cur-year">2010</span>
+            </span>
+            <span class="ml-2">
+                <strong>Number Assessments: </strong> <span data-app="num-assessments">254</span>
+            </span>
+        </div>
+        <div class="col-4">
+            <div data-app="app-state" class="text-right small">
+                <i class="fas fa-spinner fa-pulse"></i> Loading...
+            </div>
+        </div>
+    </div>
 
-    <div class="row" style="min-height: 500px">
+    <div class="row" style="height: 600px; max-height: 600px">
 
         <div data-app="map-display" class="col-9"></div>
 
-        <div data-app="sidebar" class="col-3"></div>
+        <div data-app="sidebar" class="app-sidebar col-3 p-0">
+            <ul class="sidebar-list"></ul>
+        </div>
 
     </div>
 

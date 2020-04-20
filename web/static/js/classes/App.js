@@ -6,6 +6,9 @@ APP.init = function(rootElement)
     this._element = $(rootElement);
     this._element.hide();
 
+    this._stateEl = $(this._element.find('[data-app=app-state]'));
+    this._stateEl.css('visibility', 'hidden');
+
     // Components
     this._yearPicker = new APP.YearPicker(this._element.find('[data-app=year-picker]'));
     this._mapDisplay = new APP.MapDisplay(this._element.find('[data-app=map-display]'));
@@ -61,10 +64,14 @@ APP.setYears = function(years)
     this._yearPicker.resetCurValue();
 };
 
-APP.setAssessments = function(assessments)
+APP.setAssessments = function(assessments, callback)
 {
-    console.log(assessments);
     this._assessments = assessments;
+
+    this._sidebar.setAssessments(this._assessments, function()
+    {
+        callback();
+    });
 };
 
 APP.setLoadingState = function(isLoading)
@@ -72,11 +79,13 @@ APP.setLoadingState = function(isLoading)
     this._loadingState = isLoading;
     if (this.isLoading())
     {
+        this._stateEl.css('visibility', 'initial');
         // Lock the application
         this._yearPicker.lock();
     }
     else
     {
+        this._stateEl.css('visibility', 'hidden');
         // Unlock the application
         this._yearPicker.unlock();
     }
@@ -111,6 +120,8 @@ APP.fireLoadYear = function(year)
 
 APP.loadYear = function(data)
 {
-    this.setAssessments(data.assessments);
-    APP.setLoadingState(false);
+    this.setAssessments(data.assessments, function()
+    {
+        APP.setLoadingState(false);
+    });
 };

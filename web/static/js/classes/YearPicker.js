@@ -91,5 +91,4 @@ APP.YearPicker.prototype._handleChangeEvent = function()
     {
         this._listeners[i].fireYearPickerChangeEvent(this.getCurValue());
     }
-    this.unlock();
 };

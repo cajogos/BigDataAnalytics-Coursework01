@@ -1,7 +1,68 @@
 body {
     background: #000;
+    font-size: 14px;
 }
 
 .page-container {
     background: white;
 }
+
+.app-sidebar {
+    max-height: inherit;
+    background: #EAEAEA;
+    padding: 0;
+}
+
+.app-sidebar .sidebar-list {
+    border: 1px solid #CCC;
+    overflow-y: scroll;
+    max-height: inherit;
+    list-style: none;
+    padding: 0;
+}
+
+.app-sidebar .sidebar-list li {
+    border: 1px solid #CCC;
+    background: white;
+    position: relative;
+    margin-bottom: 3px;
+    font-size: 0.9rem;
+    padding: 2px;
+}
+
+.app-sidebar .sidebar-list li .name {
+    font-style: italic;
+}
+
+.app-sidebar .sidebar-list li .category {
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.app-sidebar .sidebar-list li .trend-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+.app-sidebar .sidebar-list li.trend-increasing .trend-icon {
+    color: green;
+}
+
+.app-sidebar .sidebar-list li.trend-decreasing .trend-icon {
+    color: red;
+}
+
+.app-sidebar .sidebar-list li.trend-stable .trend-icon {
+    color: royalblue;
+}
+
+/*
+<li class="trend-decreasing">
+<span class="name">Protunio messageri</span>
+<div>
+<span class="category">Endangered</span>
+<span class="v"></span>
+</div>
+</li>
+*/
