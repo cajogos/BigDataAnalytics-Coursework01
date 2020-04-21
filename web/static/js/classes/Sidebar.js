@@ -44,9 +44,13 @@ APP.Sidebar.prototype._loadAssessmentsView = function(callback)
             {
                 icon = 'fa-arrow-down';
             }
-            var itemContent = '<span class="name">' + curAssessment.name + '</span>'
-            + '<div>' + '<span class="category">' + curAssessment.category + '</span>'
-            + '<span class="trend-icon"><i class="fas ' + icon + '"></i></span>' + '</div>';
+            var itemContent = `
+                <span class="name">${curAssessment.name}</span>
+                <div>
+                    <span class="category">${curAssessment.category}</span>
+                    <span class="trend-icon"><i class="fas ${icon}"></i></span>
+                </div>
+            `;
             listItem.html(itemContent);
 
             $el.append(listItem);

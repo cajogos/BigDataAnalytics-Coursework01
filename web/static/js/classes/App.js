@@ -9,6 +9,9 @@ APP.init = function(rootElement)
     this._stateEl = $(this._element.find('[data-app=app-state]'));
     this._stateEl.css('visibility', 'hidden');
 
+    this._curYearEl = $(this._element.find('[data-app=cur-year]'));
+    this._numAssessmentsEl = $(this._element.find('[data-app=num-assessments]'));
+
     // Components
     this._yearPicker = new APP.YearPicker(this._element.find('[data-app=year-picker]'));
     this._mapDisplay = new APP.MapDisplay(this._element.find('[data-app=map-display]'));
@@ -64,9 +67,16 @@ APP.setYears = function(years)
     this._yearPicker.resetCurValue();
 };
 
+APP.setCurrentYear = function(year)
+{
+    this._curYearEl.text(year);
+};
+
 APP.setAssessments = function(assessments, callback)
 {
     this._assessments = assessments;
+
+    this._numAssessmentsEl.text(this._assessments.length);
 
     this._sidebar.setAssessments(this._assessments, function()
     {
@@ -103,6 +113,8 @@ APP.fireLoadYear = function(year)
     {
         // TODO: Years with nothing
         console.log('nothing for year '+ year);
+
+        this.setCurrentYear(year);
         this.setAssessments([]);
         return false;
     }
@@ -120,6 +132,7 @@ APP.fireLoadYear = function(year)
 
 APP.loadYear = function(data)
 {
+    this.setCurrentYear(data.year);
     this.setAssessments(data.assessments, function()
     {
         APP.setLoadingState(false);
