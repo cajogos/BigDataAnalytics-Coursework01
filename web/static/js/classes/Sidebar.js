@@ -14,8 +14,6 @@ APP.Sidebar.prototype.constructor = APP.Sidebar;
 APP.Sidebar.prototype.setAssessments = function(assessments, callback)
 {
     this._assessments = assessments;
-    console.log(assessments[0]);
-
     this._loadAssessmentsView(callback);
 };
 
@@ -26,14 +24,11 @@ APP.Sidebar.prototype._loadAssessmentsView = function(callback)
     {
         var $el = $(this);
         $el.html('');
+        var html = '';
         for (var i = 0; i < self._assessments.length; i++)
         {
             var curAssessment = self._assessments[i];
-
-            var listItem = $('<li />');
-
             var trend = curAssessment.popTrend.toLowerCase();
-            listItem.addClass('trend-' + trend);
 
             var icon = 'fa-horizontal-rule';
             if (trend === 'increasing')
@@ -44,17 +39,17 @@ APP.Sidebar.prototype._loadAssessmentsView = function(callback)
             {
                 icon = 'fa-arrow-down';
             }
-            var itemContent = `
+            html += `
+            <li class="trend-${trend}">
                 <span class="name">${curAssessment.name}</span>
                 <div>
                     <span class="category">${curAssessment.category}</span>
                     <span class="trend-icon"><i class="fas ${icon}"></i></span>
                 </div>
+            </li>
             `;
-            listItem.html(itemContent);
-
-            $el.append(listItem);
         }
+        $el.html(html);
 
         $el.fadeIn(400, function()
         {

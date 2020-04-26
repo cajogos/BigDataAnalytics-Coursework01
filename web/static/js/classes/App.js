@@ -75,12 +75,12 @@ APP.setCurrentYear = function(year)
 APP.setAssessments = function(assessments, callback)
 {
     this._assessments = assessments;
-
     this._numAssessmentsEl.text(this._assessments.length);
 
+    var self = this;
     this._sidebar.setAssessments(this._assessments, function()
     {
-        callback();
+        self._mapDisplay.setAssessments(self._assessments, callback);
     });
 };
 
@@ -111,11 +111,11 @@ APP.fireLoadYear = function(year)
     // Check year exists
     if (this._years.indexOf(year) === -1)
     {
-        // TODO: Years with nothing
-        console.log('nothing for year '+ year);
-
         this.setCurrentYear(year);
-        this.setAssessments([]);
+        this.setAssessments([], function()
+        {
+            APP.setLoadingState(false);
+        });
         return false;
     }
 
