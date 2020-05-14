@@ -41,6 +41,6 @@ assessmentsByYear = GROUP assessments BY year;
 DESCRIBE assessmentsByYear;
 
 /* Store the result in a JSON file */
---STORE assessmentsByYear INTO '/user/maria_dev/cwk/pig/results/assessments_by_year.json' USING JsonStorage();
+STORE assessmentsByYear INTO '/user/maria_dev/cwk/pig/results/assessments_by_year.json' USING JsonStorage();
 ```
 
